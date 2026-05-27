@@ -25,7 +25,7 @@ soln=np.linalg.inv(A)
 print(soln)
 ```
 ## Output:
-<img width="1343" height="992" alt="image" src="https://github.com/user-attachments/assets/f46ddfec-c50e-434c-96d4-047c7340a3d4" />
+<img width="767" height="580" alt="image" src="https://github.com/user-attachments/assets/0c0534da-03da-4e1c-906a-e2e4f3af9512" />
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
